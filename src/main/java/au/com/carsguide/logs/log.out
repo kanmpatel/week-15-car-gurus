@@ -1,0 +1,414 @@
+2022-05-19 21:05:628 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:350 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:467 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (08511b6d73c868147b2b99152a30b3f8)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:643 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (08511b6d73c868147b2b99152a30b3f8)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:502 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (08511b6d73c868147b2b99152a30b3f8)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 23:05:664 INFO  CarSearchPage :47 - select the make for car from drop down Holden
+2022-05-19 23:05:782 INFO  CarSearchPage :52 - select the model for car from drop down Belmont
+2022-05-19 23:05:904 INFO  CarSearchPage :57 - select the location for car from drop down NSW - Central West
+2022-05-19 23:05:08 INFO  CarSearchPage :62 - select the price for car from drop down $70,000
+2022-05-19 23:05:51 INFO  SearchResultPage :22 - get the text of car search result car : [[ChromeDriver: chrome on WINDOWS (08511b6d73c868147b2b99152a30b3f8)] -> xpath: //h1[@class="listing-search-title"]]
+2022-05-19 23:05:784 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:171 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (a3898499385f5f922b529d6f01db3228)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:528 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (a3898499385f5f922b529d6f01db3228)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:762 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (a3898499385f5f922b529d6f01db3228)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 23:05:905 INFO  CarSearchPage :47 - select the make for car from drop down Mazda
+2022-05-19 23:05:14 INFO  CarSearchPage :52 - select the model for car from drop down B4000
+2022-05-19 23:05:112 INFO  CarSearchPage :57 - select the location for car from drop down NSW - Far West
+2022-05-19 23:05:227 INFO  CarSearchPage :62 - select the price for car from drop down $90,000
+2022-05-19 23:05:664 INFO  SearchResultPage :22 - get the text of car search result car : Proxy element for: DefaultElementLocator 'By.xpath: //h1[@class="listing-search-title"]'
+2022-05-19 23:05:797 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:529 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (815b389695c85f301440db3d77472726)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:750 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (815b389695c85f301440db3d77472726)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:885 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (815b389695c85f301440db3d77472726)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 23:05:37 INFO  CarSearchPage :47 - select the make for car from drop down Suzuki
+2022-05-19 23:05:145 INFO  CarSearchPage :52 - select the model for car from drop down Jimny
+2022-05-19 23:05:240 INFO  CarSearchPage :57 - select the location for car from drop down NSW - Riverina
+2022-05-19 23:05:323 INFO  CarSearchPage :62 - select the price for car from drop down $30,000
+2022-05-19 23:05:216 INFO  SearchResultPage :22 - get the text of car search result car : [[ChromeDriver: chrome on WINDOWS (815b389695c85f301440db3d77472726)] -> xpath: //h1[@class="listing-search-title"]]
+2022-05-19 23:05:943 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:180 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (d479f66cd6b60f35c3393eab726659ee)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:477 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (d479f66cd6b60f35c3393eab726659ee)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:834 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (d479f66cd6b60f35c3393eab726659ee)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 23:05:08 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:952 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (b28cee91a60ee3a023e8270ac5b1638c)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:169 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (b28cee91a60ee3a023e8270ac5b1638c)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:393 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (b28cee91a60ee3a023e8270ac5b1638c)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 23:05:579 INFO  CarSearchPage :47 - select the make for car from drop down Alpine
+2022-05-19 23:05:677 INFO  CarSearchPage :52 - select the model for car from drop down A110
+2022-05-19 23:05:142 INFO  CarSearchPage :57 - select the location for car from drop down NSW - Sydney
+2022-05-19 23:05:332 INFO  CarSearchPage :62 - select the price for car from drop down $45,000
+2022-05-19 23:05:995 INFO  SearchResultPage :22 - get the text of car search result car : Proxy element for: DefaultElementLocator 'By.xpath: //h1[@class="listing-search-title"]'
+2022-05-19 23:05:991 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:39 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:267 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:323 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:73 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:192 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (fb47495e036221978dc3fabeede11896)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:396 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (fb47495e036221978dc3fabeede11896)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:274 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (fb47495e036221978dc3fabeede11896)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 23:05:301 INFO  CarSearchPage :47 - select the make for car from drop down Toyota
+2022-05-19 23:05:425 INFO  CarSearchPage :52 - select the model for car from drop down Altezza
+2022-05-19 23:05:522 INFO  CarSearchPage :57 - select the location for car from drop down NSW - South Coast
+2022-05-19 23:05:613 INFO  CarSearchPage :62 - select the price for car from drop down $60,000
+2022-05-19 23:05:676 INFO  SearchResultPage :22 - get the text of car search result car : [[ChromeDriver: chrome on WINDOWS (fb47495e036221978dc3fabeede11896)] -> xpath: //h1[@class="listing-search-title"]]
+2022-05-19 23:05:391 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:461 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:432 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (2471d4f95aec45b5bd138107b201b4dd)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:594 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (2471d4f95aec45b5bd138107b201b4dd)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:751 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (2471d4f95aec45b5bd138107b201b4dd)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 23:05:336 INFO  CarSearchPage :47 - select the make for car from drop down Hyundai
+2022-05-19 23:05:536 INFO  CarSearchPage :52 - select the model for car from drop down I30
+2022-05-19 23:05:631 INFO  CarSearchPage :57 - select the location for car from drop down QLD - All
+2022-05-19 23:05:720 INFO  CarSearchPage :62 - select the price for car from drop down $150,000
+2022-05-19 23:05:601 INFO  SearchResultPage :22 - get the text of car search result car : [[ChromeDriver: chrome on WINDOWS (2471d4f95aec45b5bd138107b201b4dd)] -> xpath: //h1[@class="listing-search-title"]]
+2022-05-19 23:05:744 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:968 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:89 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:45 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:89 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:90 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:273 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (e605b8617400a7506c08fba51b32b8a7)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:655 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (e605b8617400a7506c08fba51b32b8a7)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:215 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (e605b8617400a7506c08fba51b32b8a7)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 23:05:240 INFO  CarSearchPage :47 - select the make for car from drop down Hyundai
+2022-05-19 23:05:354 INFO  CarSearchPage :52 - select the model for car from drop down I30
+2022-05-19 23:05:455 INFO  CarSearchPage :57 - select the location for car from drop down QLD - All
+2022-05-19 23:05:543 INFO  CarSearchPage :62 - select the price for car from drop down $150,000
+2022-05-19 23:05:231 INFO  SearchResultPage :22 - get the text of car search result car : [[ChromeDriver: chrome on WINDOWS (e605b8617400a7506c08fba51b32b8a7)] -> xpath: //h1[@class="listing-search-title"]]
+2022-05-19 23:05:753 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:785 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:754 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:743 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:17 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (801d190b5200a2212cb8abcd79d7e392)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:176 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (801d190b5200a2212cb8abcd79d7e392)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:491 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:553 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (ad01466a83f33f7a07d0f40cbfb984ad)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:710 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (ad01466a83f33f7a07d0f40cbfb984ad)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:384 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (ad01466a83f33f7a07d0f40cbfb984ad)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 23:05:96 INFO  CarSearchPage :47 - select the make for car from drop down Alpine
+2022-05-19 23:05:347 INFO  CarSearchPage :52 - select the model for car from drop down A110
+2022-05-19 23:05:439 INFO  CarSearchPage :57 - select the location for car from drop down NSW - Sydney
+2022-05-19 23:05:526 INFO  CarSearchPage :62 - select the price for car from drop down $45,000
+2022-05-19 23:05:414 INFO  SearchResultPage :22 - get the text of car search result car : Proxy element for: DefaultElementLocator 'By.xpath: //h1[@class="listing-search-title"]'
+2022-05-19 23:05:478 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 23:05:333 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (eff461a04ceb3f40e30bf9307b35422e)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:591 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (eff461a04ceb3f40e30bf9307b35422e)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:993 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:297 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (78faf75e13f91b3ac09f75e87cef9554)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:513 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (78faf75e13f91b3ac09f75e87cef9554)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:600 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (78faf75e13f91b3ac09f75e87cef9554)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 23:05:633 INFO  CarSearchPage :47 - select the make for car from drop down Holden
+2022-05-19 23:05:824 INFO  CarSearchPage :52 - select the model for car from drop down Belmont
+2022-05-19 23:05:922 INFO  CarSearchPage :57 - select the location for car from drop down NSW - Central West
+2022-05-19 23:05:13 INFO  CarSearchPage :62 - select the price for car from drop down $70,000
+2022-05-19 23:05:512 INFO  SearchResultPage :22 - get the text of car search result car : [[ChromeDriver: chrome on WINDOWS (78faf75e13f91b3ac09f75e87cef9554)] -> xpath: //h1[@class="listing-search-title"]]
+2022-05-19 23:05:244 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:275 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:391 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:351 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:377 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:486 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (20632c740674eaf04938cb63809ec0f8)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:817 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (20632c740674eaf04938cb63809ec0f8)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:922 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:951 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:886 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:185 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (d822fae2f5657f3c52c76675354629a1)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:372 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (d822fae2f5657f3c52c76675354629a1)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:224 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (d822fae2f5657f3c52c76675354629a1)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 23:05:400 INFO  CarSearchPage :47 - select the make for car from drop down Suzuki
+2022-05-19 23:05:513 INFO  CarSearchPage :52 - select the model for car from drop down Jimny
+2022-05-19 23:05:608 INFO  CarSearchPage :57 - select the location for car from drop down NSW - Riverina
+2022-05-19 23:05:696 INFO  CarSearchPage :62 - select the price for car from drop down $30,000
+2022-05-19 23:05:487 INFO  SearchResultPage :22 - get the text of car search result car : [[ChromeDriver: chrome on WINDOWS (d822fae2f5657f3c52c76675354629a1)] -> xpath: //h1[@class="listing-search-title"]]
+2022-05-19 23:05:261 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:267 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:202 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (72c2801b5e70e27f00a93fed2a415f72)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:396 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (72c2801b5e70e27f00a93fed2a415f72)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:153 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (72c2801b5e70e27f00a93fed2a415f72)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 23:05:461 INFO  CarSearchPage :47 - select the make for car from drop down Alpine
+2022-05-19 23:05:389 INFO  CarSearchPage :52 - select the model for car from drop down A110
+2022-05-19 23:05:805 INFO  CarSearchPage :57 - select the location for car from drop down NSW - Sydney
+2022-05-19 23:05:892 INFO  CarSearchPage :62 - select the price for car from drop down $45,000
+2022-05-19 23:05:533 INFO  SearchResultPage :22 - get the text of car search result car : Proxy element for: DefaultElementLocator 'By.xpath: //h1[@class="listing-search-title"]'
+2022-05-19 23:05:445 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:679 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:155 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (f1d1fe02a5199b7c8a728b440bfb1bc7)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:333 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (f1d1fe02a5199b7c8a728b440bfb1bc7)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:661 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (f1d1fe02a5199b7c8a728b440bfb1bc7)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 23:05:592 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:343 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:292 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (fef8bc59bf09e7d0ca79661354ff0eb5)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:581 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (fef8bc59bf09e7d0ca79661354ff0eb5)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:318 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (fef8bc59bf09e7d0ca79661354ff0eb5)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 23:05:218 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:789 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (eb455039d1856a8432ed146f3824ff16)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:00 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (eb455039d1856a8432ed146f3824ff16)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 23:05:677 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (eb455039d1856a8432ed146f3824ff16)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 23:05:232 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:352 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:259 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:292 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (0e9b207773935342b539636e1a9af201)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:450 INFO  HomePage :44 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (0e9b207773935342b539636e1a9af201)] -> xpath: //a[text()='Used']]
+2022-05-19 23:05:227 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (0e9b207773935342b539636e1a9af201)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-19 23:05:306 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:138 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (dfedaf55453a44bbe558ab3fa2ea6d23)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:736 INFO  HomePage :44 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (dfedaf55453a44bbe558ab3fa2ea6d23)] -> xpath: //a[text()='Used']]
+2022-05-19 23:05:285 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (dfedaf55453a44bbe558ab3fa2ea6d23)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-19 23:05:353 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:154 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (0ee15e1e70ddb82f7dbd454a56272854)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:384 INFO  HomePage :44 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (0ee15e1e70ddb82f7dbd454a56272854)] -> xpath: //a[text()='Used']]
+2022-05-19 23:05:990 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (0ee15e1e70ddb82f7dbd454a56272854)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-19 23:05:906 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:977 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (f026f63ab27cc807f298a6d2619ac8a6)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:258 INFO  HomePage :44 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (f026f63ab27cc807f298a6d2619ac8a6)] -> xpath: //a[text()='Used']]
+2022-05-19 23:05:73 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (f026f63ab27cc807f298a6d2619ac8a6)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-19 23:05:88 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:941 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (d1ed96f81883c15d7866e015993e8df2)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:216 INFO  HomePage :44 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (d1ed96f81883c15d7866e015993e8df2)] -> xpath: //a[text()='Used']]
+2022-05-19 23:05:46 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (d1ed96f81883c15d7866e015993e8df2)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-19 23:05:269 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:299 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (ab59a57ad3f6895bc3f4b0bdf2695bfe)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:463 INFO  HomePage :44 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (ab59a57ad3f6895bc3f4b0bdf2695bfe)] -> xpath: //a[text()='Used']]
+2022-05-19 23:05:03 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (ab59a57ad3f6895bc3f4b0bdf2695bfe)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-19 23:05:64 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:34 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:974 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:900 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:886 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (1a69aab5dc94bb326f7361c254bc5c6b)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:214 INFO  HomePage :44 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (1a69aab5dc94bb326f7361c254bc5c6b)] -> xpath: //a[text()='Used']]
+2022-05-19 23:05:193 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (1a69aab5dc94bb326f7361c254bc5c6b)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-19 23:05:364 INFO  CarSearchPage :47 - select the make for car from drop down Ford
+2022-05-19 23:05:452 INFO  CarSearchPage :52 - select the model for car from drop down Corsair
+2022-05-19 23:05:550 INFO  CarSearchPage :57 - select the location for car from drop down QLD - Far North
+2022-05-19 23:05:639 INFO  CarSearchPage :62 - select the price for car from drop down $50,000
+2022-05-19 23:05:749 INFO  CarSearchPage :67 - click on find My Next Car button [[ChromeDriver: chrome on WINDOWS (1a69aab5dc94bb326f7361c254bc5c6b)] -> xpath: //input[@id='search-submit']]
+2022-05-19 23:05:393 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:379 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:353 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:687 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:597 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:586 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:606 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:583 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 23:05:502 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (6c197032ef547bc3f71edf9323e8acb9)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 23:05:762 INFO  HomePage :44 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (6c197032ef547bc3f71edf9323e8acb9)] -> xpath: //a[text()='Used']]
+2022-05-19 23:05:521 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (6c197032ef547bc3f71edf9323e8acb9)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-19 23:05:323 INFO  CarSearchPage :47 - select the make for car from drop down Lamborghini
+2022-05-19 23:05:491 INFO  CarSearchPage :52 - select the model for car from drop down Huracan
+2022-05-19 23:05:579 INFO  CarSearchPage :57 - select the location for car from drop down VIC - All
+2022-05-19 23:05:664 INFO  CarSearchPage :62 - select the price for car from drop down $60,000
+2022-05-19 23:05:757 INFO  CarSearchPage :67 - click on find My Next Car button [[ChromeDriver: chrome on WINDOWS (6c197032ef547bc3f71edf9323e8acb9)] -> xpath: //input[@id='search-submit']]
+2022-05-19 23:05:498 INFO  SearchResultPage :22 - get the text of car search result car : Proxy element for: DefaultElementLocator 'By.xpath: //h1[@class="listing-search-title"]'
+2022-05-20 00:05:337 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:439 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:398 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (d83544708e0aeef1d1fc97864693bd49)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:570 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (d83544708e0aeef1d1fc97864693bd49)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-20 00:05:104 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (d83544708e0aeef1d1fc97864693bd49)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-20 00:05:999 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:940 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (bb17712c4625c5b3183176751c7fef7d)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:88 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (bb17712c4625c5b3183176751c7fef7d)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-20 00:05:806 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (bb17712c4625c5b3183176751c7fef7d)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-20 00:05:738 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:790 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:538 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:481 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:634 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:683 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:827 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:213 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:988 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (84479b1afe1c4866e5d36e60e4d2d571)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:147 INFO  HomePage :44 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (84479b1afe1c4866e5d36e60e4d2d571)] -> xpath: //a[text()='Used']]
+2022-05-20 00:05:757 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (84479b1afe1c4866e5d36e60e4d2d571)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-20 00:05:776 INFO  CarSearchPage :47 - select the make for car from drop down BMW
+2022-05-20 00:05:872 INFO  CarSearchPage :52 - select the model for car from drop down 1 Series
+2022-05-20 00:05:982 INFO  CarSearchPage :57 - select the location for car from drop down SA - Eyre Peninsula
+2022-05-20 00:05:104 INFO  CarSearchPage :62 - select the price for car from drop down $25,000
+2022-05-20 00:05:306 INFO  CarSearchPage :67 - click on find My Next Car button [[ChromeDriver: chrome on WINDOWS (84479b1afe1c4866e5d36e60e4d2d571)] -> xpath: //input[@id='search-submit']]
+2022-05-20 00:05:241 INFO  SearchResultPage :22 - get the text of car search result car : Proxy element for: DefaultElementLocator 'By.xpath: //h1[@class="listing-search-title"]'
+2022-05-20 00:05:255 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:444 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:998 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:60 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:125 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:518 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:499 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:342 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:340 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (921b13635d7b6a3c44b548f08ef317d4)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:872 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:390 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (a4e757f2b08151bc76809c465ba39922)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:579 INFO  HomePage :40 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (a4e757f2b08151bc76809c465ba39922)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-20 00:05:89 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (a4e757f2b08151bc76809c465ba39922)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-20 00:05:89 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:23 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (24885b9e16d164781b536daa8d3168e9)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:204 INFO  HomePage :40 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (24885b9e16d164781b536daa8d3168e9)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-20 00:05:493 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (24885b9e16d164781b536daa8d3168e9)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-20 00:05:397 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:563 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:480 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:531 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:571 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:114 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (1b72fc3fb691028246c8f310a3fe75b3)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:284 INFO  HomePage :45 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (1b72fc3fb691028246c8f310a3fe75b3)] -> xpath: //a[text()='Used']]
+2022-05-20 00:05:516 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (1b72fc3fb691028246c8f310a3fe75b3)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-20 00:05:540 INFO  CarSearchPage :47 - select the make for car from drop down Rover
+2022-05-20 00:05:652 INFO  CarSearchPage :52 - select the model for car from drop down Any Model
+2022-05-20 00:05:704 INFO  CarSearchPage :57 - select the location for car from drop down NSW - All
+2022-05-20 00:05:797 INFO  CarSearchPage :62 - select the price for car from drop down $60,000
+2022-05-20 00:05:900 INFO  CarSearchPage :67 - click on find My Next Car button [[ChromeDriver: chrome on WINDOWS (1b72fc3fb691028246c8f310a3fe75b3)] -> xpath: //input[@id='search-submit']]
+2022-05-20 00:05:588 INFO  SearchResultPage :22 - get the text of car search result car : [[ChromeDriver: chrome on WINDOWS (1b72fc3fb691028246c8f310a3fe75b3)] -> xpath: //h1[@class="listing-search-title"]]
+2022-05-20 00:05:431 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:505 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:507 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (d778a0c0b70987d27033a1093faac6e7)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:692 INFO  HomePage :45 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (d778a0c0b70987d27033a1093faac6e7)] -> xpath: //a[text()='Used']]
+2022-05-20 00:05:989 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (d778a0c0b70987d27033a1093faac6e7)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-20 00:05:10 INFO  CarSearchPage :47 - select the make for car from drop down Volvo
+2022-05-20 00:05:124 INFO  CarSearchPage :52 - select the model for car from drop down XC90
+2022-05-20 00:05:732 INFO  CarSearchPage :57 - select the location for car from drop down NT - South
+2022-05-20 00:05:817 INFO  CarSearchPage :62 - select the price for car from drop down $50,000
+2022-05-20 00:05:914 INFO  CarSearchPage :67 - click on find My Next Car button [[ChromeDriver: chrome on WINDOWS (d778a0c0b70987d27033a1093faac6e7)] -> xpath: //input[@id='search-submit']]
+2022-05-20 00:05:686 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:719 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:571 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (e1cd21308909cfeae3502ba92822db2c)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:751 INFO  HomePage :45 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (e1cd21308909cfeae3502ba92822db2c)] -> xpath: //a[text()='Used']]
+2022-05-20 00:05:39 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (e1cd21308909cfeae3502ba92822db2c)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-20 00:05:56 INFO  CarSearchPage :47 - select the make for car from drop down BMW
+2022-05-20 00:05:151 INFO  CarSearchPage :52 - select the model for car from drop down 1 Series
+2022-05-20 00:05:285 INFO  CarSearchPage :57 - select the location for car from drop down SA - Eyre Peninsula
+2022-05-20 00:05:375 INFO  CarSearchPage :62 - select the price for car from drop down $25,000
+2022-05-20 00:05:483 INFO  CarSearchPage :67 - click on find My Next Car button [[ChromeDriver: chrome on WINDOWS (e1cd21308909cfeae3502ba92822db2c)] -> xpath: //input[@id='search-submit']]
+2022-05-20 00:05:180 INFO  SearchResultPage :22 - get the text of car search result car : Proxy element for: DefaultElementLocator 'By.xpath: //h1[@class="listing-search-title"]'
+2022-05-20 00:05:223 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:465 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:998 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (e4f79f71434ec9869522befc55d2788c)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:193 INFO  HomePage :45 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (e4f79f71434ec9869522befc55d2788c)] -> xpath: //a[text()='Used']]
+2022-05-20 00:05:409 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (e4f79f71434ec9869522befc55d2788c)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-20 00:05:451 INFO  CarSearchPage :47 - select the make for car from drop down Rover
+2022-05-20 00:05:590 INFO  CarSearchPage :52 - select the model for car from drop down Any Model
+2022-05-20 00:05:659 INFO  CarSearchPage :57 - select the location for car from drop down NSW - All
+2022-05-20 00:05:759 INFO  CarSearchPage :62 - select the price for car from drop down $60,000
+2022-05-20 00:05:883 INFO  CarSearchPage :67 - click on find My Next Car button [[ChromeDriver: chrome on WINDOWS (e4f79f71434ec9869522befc55d2788c)] -> xpath: //input[@id='search-submit']]
+2022-05-20 00:05:213 INFO  SearchResultPage :22 - get the text of car search result car : [[ChromeDriver: chrome on WINDOWS (e4f79f71434ec9869522befc55d2788c)] -> xpath: //h1[@class="listing-search-title"]]
+2022-05-20 00:05:952 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:90 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (fa1b34804f23eb5ec826a4196a72f270)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:272 INFO  HomePage :45 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (fa1b34804f23eb5ec826a4196a72f270)] -> xpath: //a[text()='Used']]
+2022-05-20 00:05:638 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (fa1b34804f23eb5ec826a4196a72f270)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-20 00:05:672 INFO  CarSearchPage :47 - select the make for car from drop down Audi
+2022-05-20 00:05:847 INFO  CarSearchPage :52 - select the model for car from drop down A6
+2022-05-20 00:05:954 INFO  CarSearchPage :57 - select the location for car from drop down NSW - Central West
+2022-05-20 00:05:49 INFO  CarSearchPage :62 - select the price for car from drop down $90,000
+2022-05-20 00:05:153 INFO  CarSearchPage :67 - click on find My Next Car button [[ChromeDriver: chrome on WINDOWS (fa1b34804f23eb5ec826a4196a72f270)] -> xpath: //input[@id='search-submit']]
+2022-05-20 00:05:775 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:825 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:624 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (ef193bd8785a35aac244e97e4fc947af)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:797 INFO  HomePage :45 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (ef193bd8785a35aac244e97e4fc947af)] -> xpath: //a[text()='Used']]
+2022-05-20 00:05:675 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (ef193bd8785a35aac244e97e4fc947af)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-20 00:05:701 INFO  CarSearchPage :47 - select the make for car from drop down Ford
+2022-05-20 00:05:859 INFO  CarSearchPage :52 - select the model for car from drop down Corsair
+2022-05-20 00:05:967 INFO  CarSearchPage :57 - select the location for car from drop down QLD - Far North
+2022-05-20 00:05:55 INFO  CarSearchPage :62 - select the price for car from drop down $50,000
+2022-05-20 00:05:166 INFO  CarSearchPage :67 - click on find My Next Car button [[ChromeDriver: chrome on WINDOWS (ef193bd8785a35aac244e97e4fc947af)] -> xpath: //input[@id='search-submit']]
+2022-05-20 00:05:937 INFO  SearchResultPage :22 - get the text of car search result car : Proxy element for: DefaultElementLocator 'By.xpath: //h1[@class="listing-search-title"]'
+2022-05-20 00:05:982 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:549 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:303 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:299 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:491 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:57 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:59 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:975 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:95 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:285 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (b751f07207919c24ca95b0013468d463)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:455 INFO  HomePage :44 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (b751f07207919c24ca95b0013468d463)] -> xpath: //a[text()='Used']]
+2022-05-20 00:05:456 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (b751f07207919c24ca95b0013468d463)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-20 00:05:481 INFO  CarSearchPage :47 - select the make for car from drop down Rover
+2022-05-20 00:05:594 INFO  CarSearchPage :52 - select the model for car from drop down Any Model
+2022-05-20 00:05:659 INFO  CarSearchPage :57 - select the location for car from drop down NSW - All
+2022-05-20 00:05:766 INFO  CarSearchPage :62 - select the price for car from drop down $60,000
+2022-05-20 00:05:889 INFO  CarSearchPage :67 - click on find My Next Car button [[ChromeDriver: chrome on WINDOWS (b751f07207919c24ca95b0013468d463)] -> xpath: //input[@id='search-submit']]
+2022-05-20 00:05:514 INFO  SearchResultPage :22 - get the text of car search result car : [[ChromeDriver: chrome on WINDOWS (b751f07207919c24ca95b0013468d463)] -> xpath: //h1[@class="listing-search-title"]]
+2022-05-20 00:05:243 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:203 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:81 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:124 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:882 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:92 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:619 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (4b6e9e00d8a02c6b690cd67911bcb0c6)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:820 INFO  HomePage :44 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (4b6e9e00d8a02c6b690cd67911bcb0c6)] -> xpath: //a[text()='Used']]
+2022-05-20 00:05:09 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (4b6e9e00d8a02c6b690cd67911bcb0c6)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-20 00:05:214 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:465 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:490 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:664 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (ccfd7cd0dda398501de6da8b10b277c2)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:831 INFO  HomePage :44 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (ccfd7cd0dda398501de6da8b10b277c2)] -> xpath: //a[text()='Used']]
+2022-05-20 00:05:462 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (ccfd7cd0dda398501de6da8b10b277c2)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-20 00:05:733 INFO  CarSearchPage :47 - select the make for car from drop down Ford
+2022-05-20 00:05:443 INFO  CarSearchPage :52 - select the model for car from drop down Corsair
+2022-05-20 00:05:567 INFO  CarSearchPage :57 - select the location for car from drop down QLD - Far North
+2022-05-20 00:05:669 INFO  CarSearchPage :62 - select the price for car from drop down $50,000
+2022-05-20 00:05:773 INFO  CarSearchPage :67 - click on find My Next Car button [[ChromeDriver: chrome on WINDOWS (ccfd7cd0dda398501de6da8b10b277c2)] -> xpath: //input[@id='search-submit']]
+2022-05-20 00:05:117 INFO  SearchResultPage :22 - get the text of car search result car : Proxy element for: DefaultElementLocator 'By.xpath: //h1[@class="listing-search-title"]'
+2022-05-20 00:05:185 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-20 00:05:857 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:827 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:372 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (d7855e301b71c8c279ec32714c11a984)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:590 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (d7855e301b71c8c279ec32714c11a984)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-20 00:05:272 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (d7855e301b71c8c279ec32714c11a984)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-20 00:05:321 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:564 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:541 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:579 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (924d8295e109f82f5b154881f27e5abc)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:826 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (924d8295e109f82f5b154881f27e5abc)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-20 00:05:405 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (924d8295e109f82f5b154881f27e5abc)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-20 00:05:67 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:166 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:732 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (4edafa42f3b719d6dbcb6b1d642fe34e)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:886 INFO  HomePage :44 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (4edafa42f3b719d6dbcb6b1d642fe34e)] -> xpath: //a[text()='Used']]
+2022-05-20 00:05:745 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (4edafa42f3b719d6dbcb6b1d642fe34e)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-20 00:05:794 INFO  CarSearchPage :47 - select the make for car from drop down Rover
+2022-05-20 00:05:899 INFO  CarSearchPage :52 - select the model for car from drop down Any Model
+2022-05-20 00:05:956 INFO  CarSearchPage :57 - select the location for car from drop down NSW - All
+2022-05-20 00:05:52 INFO  CarSearchPage :62 - select the price for car from drop down $60,000
+2022-05-20 00:05:158 INFO  CarSearchPage :67 - click on find My Next Car button [[ChromeDriver: chrome on WINDOWS (4edafa42f3b719d6dbcb6b1d642fe34e)] -> xpath: //input[@id='search-submit']]
+2022-05-20 00:05:861 INFO  SearchResultPage :22 - get the text of car search result car : [[ChromeDriver: chrome on WINDOWS (4edafa42f3b719d6dbcb6b1d642fe34e)] -> xpath: //h1[@class="listing-search-title"]]
+2022-05-20 00:05:586 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:528 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:791 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:136 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:425 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (95932636bed1db145bc6385df230c171)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:702 INFO  HomePage :44 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (95932636bed1db145bc6385df230c171)] -> xpath: //a[text()='Used']]
+2022-05-20 00:05:886 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (95932636bed1db145bc6385df230c171)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-20 00:05:904 INFO  CarSearchPage :47 - select the make for car from drop down BMW
+2022-05-20 00:05:114 INFO  CarSearchPage :52 - select the model for car from drop down 1 Series
+2022-05-20 00:05:224 INFO  CarSearchPage :57 - select the location for car from drop down SA - Eyre Peninsula
+2022-05-20 00:05:318 INFO  CarSearchPage :62 - select the price for car from drop down $25,000
+2022-05-20 00:05:424 INFO  CarSearchPage :67 - click on find My Next Car button [[ChromeDriver: chrome on WINDOWS (95932636bed1db145bc6385df230c171)] -> xpath: //input[@id='search-submit']]
+2022-05-20 00:05:612 INFO  SearchResultPage :22 - get the text of car search result car : Proxy element for: DefaultElementLocator 'By.xpath: //h1[@class="listing-search-title"]'
+2022-05-20 00:05:522 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:588 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:488 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:492 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:433 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:439 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:533 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (308a98ab7c131442e013636821e188c2)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:703 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (308a98ab7c131442e013636821e188c2)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-20 00:05:328 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (308a98ab7c131442e013636821e188c2)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-20 00:05:837 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:530 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (c6ffa1112b9a75af44d760cd2bd42ce7)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:725 INFO  HomePage :39 - Link On search Cars link:[[ChromeDriver: chrome on WINDOWS (c6ffa1112b9a75af44d760cd2bd42ce7)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-20 00:05:370 INFO  CarSearchPage :42 - get the text of car search page text : [[ChromeDriver: chrome on WINDOWS (c6ffa1112b9a75af44d760cd2bd42ce7)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-20 00:05:581 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:582 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:619 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:744 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:973 INFO  HomePage :34 - Mouse Hover on buy sell tab:[[ChromeDriver: chrome on WINDOWS (a6037772a59cb643590414fc5403d567)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 00:05:131 INFO  HomePage :44 - Link On Used Link:[[ChromeDriver: chrome on WINDOWS (a6037772a59cb643590414fc5403d567)] -> xpath: //a[text()='Used']]
+2022-05-20 00:05:124 INFO  UserdCarSearchPage :42 - get the text of used Car Search text : [[ChromeDriver: chrome on WINDOWS (a6037772a59cb643590414fc5403d567)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-20 00:05:275 INFO  CarSearchPage :47 - select the make for car from drop down Ford
+2022-05-20 00:05:415 INFO  CarSearchPage :52 - select the model for car from drop down Corsair
+2022-05-20 00:05:500 INFO  CarSearchPage :57 - select the location for car from drop down QLD - Far North
+2022-05-20 00:05:591 INFO  CarSearchPage :62 - select the price for car from drop down $50,000
+2022-05-20 00:05:696 INFO  CarSearchPage :67 - click on find My Next Car button [[ChromeDriver: chrome on WINDOWS (a6037772a59cb643590414fc5403d567)] -> xpath: //input[@id='search-submit']]
+2022-05-20 00:05:149 INFO  SearchResultPage :22 - get the text of car search result car : Proxy element for: DefaultElementLocator 'By.xpath: //h1[@class="listing-search-title"]'
+2022-05-20 00:05:277 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 00:05:138 INFO  ManageDriver :32 - Launching Chrome Browser
